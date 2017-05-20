@@ -45,23 +45,6 @@
           </div>
         </div>
       </swiper-slide>
-      <swiper-slide>
-        <div class="intro">
-          <div class="intro-title">
-            开始写作吧
-          </div>
-          <div class="intro-content">
-            <img src="./pen.png" width="160px">
-          </div>
-          <div class="intro-content">
-            <span class="login-button">登录</span>
-            <span class="sign-button">注册</span>
-          </div>
-          <div class="intro-content">
-            <span class="usage-button">MarkDown 教程</span>
-          </div>
-        </div>
-      </swiper-slide>
       <div class="swiper-pagination" slot="pagination"></div>
     </swiper>
   </div>
